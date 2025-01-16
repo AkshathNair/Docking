@@ -1,0 +1,12 @@
+Docking
+File----preference---set-----set directory----copy paste file location-----dismiss
+Grid---macromolecules---open----choose protein pdbqt file
+Grid---set map type---open ligand--- choose ligand pdbqt file
+Grid--- Grid box---set grid box accordingly--- close saving current
+grid--output---save as grid.gpf
+run---run auto grid---set progamme pathname----set parameter path name--- launch ---- wait for 15 min
+docking----macromolecule---set rigid filename---open pdbqt file of protein
+docking---ligand---choose ligand--- select ligand
+docking---search paramterees---genetical algorithm
+docking---output---lamarkian--- save as dock.dpf
+run---autodock---set programme pathname---set parameter path name--- launch--- wait for 15 min
